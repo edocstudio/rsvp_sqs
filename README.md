@@ -41,7 +41,7 @@ Ittipon Bangudsareh\
 
 ## Demo
 
-- **Demo**: [Add demo/video link here]
+- **Demo**: [\[Add demo/video link here\]](https://youtu.be/1c4nMngYk-U)
 
 ---
 
